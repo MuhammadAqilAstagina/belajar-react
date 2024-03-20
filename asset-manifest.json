@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/belajar-react/static/css/main.e6c13ad2.css",
+    "main.js": "/belajar-react/static/js/main.88328dbb.js",
+    "index.html": "/belajar-react/index.html",
+    "main.e6c13ad2.css.map": "/belajar-react/static/css/main.e6c13ad2.css.map",
+    "main.88328dbb.js.map": "/belajar-react/static/js/main.88328dbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.88328dbb.js"
+  ]
+}
